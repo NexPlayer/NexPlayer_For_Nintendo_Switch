@@ -4,7 +4,7 @@
   
   </br>
   
-  NexPlayer™ SDK for Nintendo Switch™ enables Live & VOD video streaming inside Nintendo Switch apps and games. The NexPlayer™ SDK for Nintendo Switch was developed in collaboration with the native NexPlayer™ SDK and it shares features from it such as intelligent ABR, HTTP live streaming (HLS), Dynamic Adaptive Streaming over HTTP (DASH), progressive download, customizable APIs and more.
+  NexPlayer™ SDK for Nintendo Switch™ enables Live & VOD video streaming inside Nintendo Switch apps and games. The NexPlayer™ SDK for Nintendo Switch was developed in collaboration with the native NexPlayer™ SDK and utilizes many of its features such as intelligent ABR, HTTP live streaming (HLS), Dynamic Adaptive Streaming over HTTP (DASH), progressive download, customizable APIs and more.
   
   This repository contains the NexPlayer™ SDK for Nintendo Switch video streaming player features list. If you want to get a copy of our fully working demo, contact us at our [website](https://nexplayersdk.com/nintendo-player-sdk/).
   
