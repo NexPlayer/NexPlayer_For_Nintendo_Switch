@@ -14,6 +14,9 @@
   This repository contains the NexPlayer™ SDK for Nintendo Switch video streaming player features list. If you want to get a copy of our fully working demo, contact us at our [website](https://nexplayersdk.com/nintendo-player-sdk/).
     
   <br>
+  Nintendo Switch is a trademark of Nintendo.  
+    
+  <br>
 
   ## Demo Examples
   
