@@ -3,18 +3,17 @@
   </p></h1>
   
   </br>
-  
-  NexPlayer™ SDK for Nintendo Switch™ enables Live & VOD video streaming inside Nintendo Switch apps and games. The NexPlayer™ SDK for Nintendo Switch was developed in collaboration with the native NexPlayer™ SDK and utilizes many of its features such as intelligent ABR, HLS, DASH, mp4 progressive download, customizable APIs and more.
-   
-  NexPlayer for Nintendo Switch allows you to stream Live & VOD Videos in DASH and HLS formats to any Nintendo Switch application. It can be easily integrated into any **native** or **Unity** app, which opens the door for new use cases inside games, such as live video content embedded within the game universe. It also enables OTT providers to offer their Live & VOD video services to Nintendo Switch™ users.
+
+  NexPlayer™ SDK for Nintendo Switch™ enables Live & VOD video streaming inside Nintendo Switch apps and games. It can be easily integrated into any **native** or **Unity** app. The player was developed in collaboration with the native NexPlayer SDK and utilizes many of its features such as intelligent ABR, HLS, DASH, mp4 progressive download, customizable APIs and more.
+
+  The NexPlayer™ SDK for Nintendo Switch opens the door for new use cases, such as live video content embedded within the game universe or OTT providers to offer their Live & VOD video services to Nintendo Switch users.
   
   * **Nintendo Switch Native support**
-  * **Nintendo Switch with Unity support**
-   
-  This repository contains the NexPlayer™ SDK for Nintendo Switch video streaming player features list. If you want to get a copy of our fully working demo, contact us at our [website](https://nexplayersdk.com/nintendo-player-sdk/).
-    
-  <br>
-  Nintendo Switch is a trademark of Nintendo.  
+  * **Nintendo Switch Unity support**
+
+  This repository contains the features of the NexPlayer SDK for Nintendo Switch video streaming player. If you want to get a copy of our fully working demo, contact us at our [website](https://nexplayersdk.com/nintendo-player-sdk/).
+  
+  Nintendo Switch is a trademark of Nintendo.
     
   <br>
 
