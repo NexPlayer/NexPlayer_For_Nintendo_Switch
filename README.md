@@ -51,7 +51,12 @@
        </td>
        <td>
          <ul>
+         <li>MP4 Download and Playback</li>
          <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
+         <li>AES 128 content protection</li>
+         <li>Customizable API</li>
+         <li>Closed Captioning and Subtitle Formats (WebVTT, TTML, CEA-608)</li>
+         <li>Audio Track Selection</li>
          </ul>
        </td>
           <tr>
