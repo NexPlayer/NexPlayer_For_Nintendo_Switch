@@ -52,7 +52,6 @@
        <td>
          <ul>
          <li>Easy to integrate into any native or Unity app</li>  
-         <li>MP4 Download and Playback</li>
          <li>HLS & DASH Streaming with ABR (Adaptive Bitrate)</li>
          <li>AES 128 content protection</li>
          <li>Customizable API</li>
