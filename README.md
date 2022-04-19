@@ -76,7 +76,7 @@
   <br>
 
   ## Contact
-  [support.madrid@nexplayer.com](mailto:support.madrid@nexplayer.com)
+  [nintendo@nexplayer.com](mailto:nintendo@nexplayer.com)
   <br>+34 914 184 356
   
   <br>
