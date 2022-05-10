@@ -1,17 +1,17 @@
 <h1 style="line-height:2;"><p align="center"><a href="https://nexplayersdk.com/nintendo-player-sdk/" target="_blank"><img  src="resources/ButtonRequestDemo.png" width="23%" height="10%" alt="Request a demo button" align="right"></img></a>
-  <img src="resources/NexPlayerLogoSwitch.png" width="100%" height="100%" alt="NexPlayer Logo with Nintendo Switch Logo">
+  <img src="resources/NexPlayerLogoSwitch.png" width="60%" height="60%" alt="NexPlayer Logo with Nintendo Switch Logo">
   </p></h1>
   
   </br>
 
-  NexPlayer™ SDK for Nintendo Switch™ enables Live & VOD video streaming inside Nintendo Switch apps and games. It can be easily integrated into any **native** or **Unity** app. The player was developed in collaboration with the native NexPlayer SDK and utilizes many of its features such as intelligent ABR, HLS, DASH, customizable APIs, and more.
+  NexPlayer™ SDK for Nintendo Switch™ enables Live & video on demand (VOD) streaming inside Nintendo Switch apps and games with Unity. It can be easily integrated into any **native** or **Unity** apps. The player was developed in collaboration with the native NexPlayer SDK and utilizes many of its features such as intelligent ABR, HLS, DASH, customizable APIs, and more.
 
   The NexPlayer™ SDK for Nintendo Switch opens the door for new use cases, such as live video content embedded within the game universe or OTT providers to offer their Live & VOD video services to Nintendo Switch users.
   
-  * **Nintendo Switch Native support**
-  * **Nintendo Switch Unity support**
+  * **The only Video Player for Nintendo Switch Native apps**
+  * **The only Unity Video Player for Nintendo Switch games**
 
-  This repository contains the features of the NexPlayer SDK for Nintendo Switch video streaming player. If you want to get a copy of our fully working demo, contact us at our [website](https://nexplayersdk.com/nintendo-player-sdk/).
+  This repository contains the features of the NexPlayer SDK for Unity Nintendo Switch video streaming player. If you want to get a copy of our fully working demo, contact us at our [website](https://nexplayersdk.com/nintendo-player-sdk/).
   
 
     
@@ -25,7 +25,7 @@
 
   <br>
 
-  <p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Nintendo Switch video player allows for the introduction of video streams within your Nintendo Switch applications. With our library, you can use in-game actions to control the video playback.</p>
+  <p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Nintendo Switch video player allows for the introduction of video streams within your Nintendo Switch applications with Unity. With our library, you can use in-game actions to control the video playback.</p>
 
   <br>
 
@@ -41,7 +41,7 @@
   
   ## Features
   
-  The NexPlayer™ SDK for Nintendo Switch video streaming player library supports the following features:
+  The NexPlayer™ SDK for Nintendo Switch video streaming player library with Unity supports the following features:
   
   <table>
    <tbody style="text-align:center;">
