@@ -1,5 +1,5 @@
 <h1 style="line-height:2;"><p align="center"><a href="https://nexplayersdk.com/nintendo-player-sdk/" target="_blank"><img  src="resources/ButtonRequestDemo.png" width="23%" height="10%" alt="Request a demo button" align="right"></img></a>
-<a href="https://nexplayersdk.com/nintendo-player-sdk/" target="_blank"><img src="resources/NexPlayerLogoSwitch.png" width="60%" height="60%" alt="NexPlayer Logo with Nintendo Switch Logo">
+<a align=right href="https://nexplayersdk.com/nintendo-player-sdk/" target="_blank"><img src="resources/NexPlayerLogoSwitch.png" width="60%" height="60%" alt="NexPlayer Logo with Nintendo Switch Logo"></a>
   </p></h1>
   
   </br>
