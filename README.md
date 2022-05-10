@@ -1,5 +1,5 @@
 <h1 style="line-height:2;"><p align="center"><a href="https://nexplayersdk.com/nintendo-player-sdk/" target="_blank"><img  src="resources/ButtonRequestDemo.png" width="23%" height="10%" alt="Request a demo button" align="right"></img></a>
-  <img src="resources/NexPlayerLogoSwitch.png" width="60%" height="60%" alt="NexPlayer Logo with Nintendo Switch Logo">
+<a href="https://nexplayersdk.com/nintendo-player-sdk/" target="_blank"><img src="resources/NexPlayerLogoSwitch.png" width="60%" height="60%" alt="NexPlayer Logo with Nintendo Switch Logo">
   </p></h1>
   
   </br>
@@ -19,9 +19,10 @@
 
   ## Demo Examples
   
-  <img src="resources/PlayerUI.png" width="100%" height="100%" alt="NexPlayer UI">
-  <p align="center"><img src="resources/nintendo UI.png" width="80%" height="80%" alt="NexPlayer UI">
-  <p align="center"><b>Live & VOD video streaming inside Nintendo Switch apps and games</b></p>
+   <p align="center"><img src="resources/PlayerUI.png" width="100%" height="100%" alt="NexPlayer UI">
+  <p align="center"><b>Video streaming on Nintendo Switch native apps</p>
+  <p align="center"><img src="resources/nintendo UI.png" width="100%" height="100%" alt="NexPlayer UI">
+  <p align="center"><b>Live & VOD video streaming inside Nintendo Switch apps and games with Unity</b></p>
 
   <br>
 
@@ -81,3 +82,6 @@
   
   <br>
   <sub><sup>Nintendo Switch is a trademark of Nintendo.</sup></sub>
+  
+  <sub><sup>Unity video player for Switch, Unity video player for Nintendo Switch, Video player for Nintendo Switch game with Unity, Unity video streaming on Nintendo Switch, Video streaming and playback for Switch games with Unity, Video playback for Unity Switch</sup></sub>
+  
