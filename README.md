@@ -83,5 +83,5 @@
   <br>
   <sub><sup>Nintendo Switch is a trademark of Nintendo.</sup></sub>
   
-  <sub><sup>Unity video player for Switch, Unity video player for Nintendo Switch, Video player for Nintendo Switch game with Unity, Unity video streaming on Nintendo Switch, Video streaming and playback for Switch games with Unity, Video playback for Unity Switch</sup></sub>
+  <sub><sup>Unity video player for Switch, Unity video player for Nintendo Switch, Video player for Nintendo Switch game with Unity, Unity video streaming on Nintendo Switch, Video streaming and playback for Switch games with Unity, Video playback for Unity Switch.</sup></sub>
   
