@@ -26,7 +26,7 @@
 
   <br>
 
-  <p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Nintendo Switch video player allows for the introduction of video streams within your Nintendo Switch applications with Unity. With our library, you can use in-game actions to control the video playback.</p>
+  <p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unity video player for Nintendo Switch allows for the introduction of video streams within your Nintendo Switch applications made with Unity. With our library, you can use in-game actions to control the video playback.</p>
 
   <br>
 
