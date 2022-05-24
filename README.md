@@ -4,12 +4,12 @@
   
   </br>
 
-  NexPlayer™ SDK for Nintendo Switch™ enables Live & video on demand (VOD) streaming inside Nintendo Switch apps and games with Unity. It can be easily integrated into any **native** or **Unity** apps. The player was developed in collaboration with the native NexPlayer SDK and utilizes many of its features such as intelligent ABR, HLS, DASH, customizable APIs, and more.
+  NexPlayer™ SDK for Nintendo Switch™ enables Live & video on demand (VOD) streaming inside Nintendo Switch apps and games made with Unity game engine. It can be easily integrated into any **native** or **Unity** apps. The player was developed in collaboration with the native NexPlayer SDK and utilizes many of its features such as intelligent ABR, HLS, DASH, customizable APIs, and more.
 
   The NexPlayer™ SDK for Nintendo Switch opens the door for new use cases, such as live video content embedded within the game universe or OTT providers to offer their Live & VOD video services to Nintendo Switch users.
   
-  * **The only Video Player for Nintendo Switch Native apps**
-  * **The only Unity Video Player for Nintendo Switch games**
+  * **The only Video Player SDK for Nintendo Switch Native apps**
+  * **The only Unity Video Player Plugin for Nintendo Switch games**
 
   This repository contains the features of the NexPlayer SDK for Unity Nintendo Switch video streaming player. If you want to get a copy of our fully working demo, contact us at our [website](https://nexplayersdk.com/nintendo-player-sdk/).
   
@@ -26,7 +26,7 @@
 
   <br>
 
-  <p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unity video player for Nintendo Switch allows for the introduction of video streams within your Nintendo Switch applications made with Unity. With our library, you can use in-game actions to control the video playback.</p>
+  <p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unity video player plugin for Nintendo Switch allows for the introduction of video streams within your Nintendo Switch applications made with Unity. With our library, you can use in-game actions to control the video playback.</p>
 
   <br>
 
