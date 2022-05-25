@@ -20,7 +20,7 @@
   ## Use Case Examples
   
    <p align="center"><img src="resources/nw.gif" width="90%" height="90%" alt="NexPlayer UI">
-  <p align="center"><b>Sony Pictures Television's Jeopardy! Playshow app on Nintendo Switch powered by NexPlayer</p>
+  <p align="center"><b>Sony Pictures Television's Jeopardy! Playshow app on Nintendo Switch</p>
   <p align="center"><img src="resources/nintendo UI.png" width="100%" height="100%" alt="NexPlayer UI">
   <p align="center"><b>Live & VOD video streaming inside Nintendo Switch apps and games with Unity</b></p>
 
