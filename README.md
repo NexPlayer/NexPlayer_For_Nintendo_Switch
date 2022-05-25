@@ -66,7 +66,7 @@
        </td>
        <td>
          <ul>
-          <li>Play / Pause / Stop</li>
+          <li>Play / Pause / Stop / Manage Audio Volume / Seek</li>
          </ul>
        </td>
        </tr>
