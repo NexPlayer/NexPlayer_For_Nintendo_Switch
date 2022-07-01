@@ -84,5 +84,5 @@
   <sub><sup>Nintendo Switch is a trademark of Nintendo.</sup></sub>
   
   <br>
-  <sub><sup>Unity video player for Switch, Unity video player for Nintendo Switch, Video player for Nintendo Switch games with Unity, Unity video streaming Nintendo Switch, Video streaming and playback in Switch games with Unity, Video playback Switch, Video playback on Nintendo Switch, Video Player for Nintendo Switch, Video Player Nintendo Switch, metaverse, Mario Kart 8 Deluxe, Nintendo, Animal Crossing: New Horizons, Super Smash Bros. Ultimate, The Legend of Zelda, Super Mario, Pokemon, New Super Mario Bros. U Deluxe, Dragon Ball FighterZ, Mario Party Superstars, Bandai Namco, Nintendo EPD, Game Freak, NDcube.</sup></sub>
+  <sub><sup>Unity video player for Switch, Unity video player for Nintendo Switch, Video player for Nintendo Switch games with Unity, Unity video streaming Nintendo Switch, Video streaming and playback in Switch games with Unity, Video playback Switch, Video playback on Nintendo Switch, Video Player for Nintendo Switch, Video Player Nintendo Switch, metaverse, Mario Kart 8 Deluxe, Nintendo, Animal Crossing: New Horizons, Super Smash Bros. Ultimate, The Legend of Zelda, Super Mario, Pokemon, New Super Mario Bros. U Deluxe, Pokémon GO, Dragon Ball FighterZ, Mario Party Superstars, Bandai Namco, Nintendo EPD, Game Freak, NDcube.</sup></sub>
   
