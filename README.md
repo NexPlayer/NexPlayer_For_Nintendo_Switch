@@ -4,14 +4,14 @@
   
   </br>
 
-  NexPlayer™ SDK for Nintendo Switch™ enables Live & video on demand (VOD) streaming inside Nintendo Switch apps and games made with Unity game engine. It can be easily integrated into any **native** or **Unity** apps. The player was developed in collaboration with the native NexPlayer SDK and utilizes many of its features such as intelligent ABR, HLS, DASH, customizable APIs, and more.
+  NexPlayer™ SDK for Nintendo Switch™ enables Live & video on demand (VOD) streaming inside Nintendo Switch apps and games made with Unity. It can be easily integrated into any **native** or **Unity** apps. The player was developed in collaboration with the native [NexPlayer SDK](https://nexplayersdk.com/) and utilizes many of its features such as intelligent ABR, HLS, DASH, customizable APIs, and more.
 
-  The NexPlayer™ SDK for Nintendo Switch opens the door for new use cases, such as live video content embedded within the game universe or OTT providers to offer their Live & VOD video services to Nintendo Switch users.
+  Our Nintendo Switch video player opens the door for new use cases, such as live video content embedded within the game universe or OTT providers to offer their Live & VOD video services to Nintendo Switch users.
   
-  * **The only Video Player SDK for Nintendo Switch Native apps**
-  * **The only Unity Video Player Plugin for Nintendo Switch games**
+  * **The only Video Player SDK for Nintendo Switch**
 
-  This repository contains the features of the NexPlayer SDK for Unity Nintendo Switch video streaming player. If you want to get a copy of our fully working demo, contact us at our [website](https://nexplayersdk.com/nintendo-player-sdk/).
+
+  This repository contains the feature list of our Nintendo Switch video streaming player with Unity. If you want to get a copy of our fully working demo, contact us at our [website](https://nexplayersdk.com/nintendo-player-sdk/).
   
 
     
@@ -20,13 +20,13 @@
   ## Use Case Examples
   
    <p align="center"><img src="resources/nw.gif" width="90%" height="90%" alt="NexPlayer UI">
-  <p align="center"><b>Sony Pictures Television's Jeopardy! Playshow app on Nintendo Switch</p>
+  <p align="center"><b>Sony Pictures Television - Jeopardy! Playshow, Unity game for Nintendo Switch</p>
   <p align="center"><img src="resources/nintendo UI.png" width="100%" height="100%" alt="NexPlayer UI">
-  <p align="center"><b>Live & VOD video streaming inside Nintendo Switch apps and games with Unity</b></p>
+  <p align="center"><b>Live & VOD video streaming inside Unity games for Nintendo Switch</b></p>
 
   <br>
 
-  <p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unity video player plugin for Nintendo Switch allows for the introduction of video streams within your Nintendo Switch applications made with Unity. With our library, you can use in-game actions to control the video playback.</p>
+  <p style="margin-left:auto;margin-right:auto" width="300px" align="left">Our Unity video player for Nintendo Switch allows for the introduction of video streams within your Unity games for Switch. With our library, you can use in-game actions to control the video playback.</p>
 
   <br>
 
@@ -42,7 +42,7 @@
   
   ## Features
   
-  The NexPlayer™ SDK for Nintendo Switch video streaming player library with Unity supports the following features:
+  Our Unity video player for Nintendo Switch supports the following features:
   
   <table>
    <tbody style="text-align:center;">
@@ -84,5 +84,5 @@
   <sub><sup>Nintendo Switch is a trademark of Nintendo.</sup></sub>
   
   <br>
-  <sub><sup>Unity video player for Switch, Unity video player for Nintendo Switch, Video player for Nintendo Switch games with Unity, Unity video streaming Nintendo Switch, Video streaming and playback in Switch games with Unity, Video playback Switch, Video playback on Nintendo Switch, Video Player for Nintendo Switch, Video Player Nintendo Switch, metaverse, Mario Kart 8 Deluxe, Nintendo, Animal Crossing: New Horizons, Super Smash Bros. Ultimate, The Legend of Zelda, Super Mario, Pokemon, New Super Mario Bros. U Deluxe, Pokémon GO, Dragon Ball FighterZ, Mario Party Superstars, Bandai Namco, Nintendo EPD, Game Freak, NDcube.</sup></sub>
+  <sub><sup>Unity video player for Switch, Unity video player for Nintendo Switch, Video player for Nintendo Switch games with Unity, Unity video streaming Nintendo Switch, Video streaming and playback in Switch games with Unity, Video playback Switch, Video playback on Nintendo Switch, Video Player for Nintendo Switch, Video Player Nintendo Switch, metaverse, Mario Kart 8 Deluxe, Nintendo, Animal Crossing: New Horizons, Super Smash Bros. Ultimate, The Legend of Zelda, Super Mario, Pokemon, New Super Mario Bros. U Deluxe, Pokémon GO, Dragon Ball FighterZ, Mario Party Superstars, Bandai Namco, Nintendo EPD, Game Freak, NDcube, movie libary, NintendoSDK, Media player for Switch.</sup></sub>
   
