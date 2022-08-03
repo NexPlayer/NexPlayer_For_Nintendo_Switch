@@ -1,5 +1,8 @@
-<h1 style="line-height:2;"><p align="center"><a href="https://nexplayersdk.com/nintendo-player-sdk/" target="_blank"><img  src="resources/ButtonRequestDemo.png" width="23%" height="10%" alt="Request a demo button" align="right"></img></a>
-<a align=right href="https://nexplayersdk.com/nintendo-player-sdk/" target="_blank"><img src="resources/NexPlayerLogoSwitch.png" width="60%" height="60%" alt="NexPlayer Logo with Nintendo Switch Logo"></a>
+<h1 style="line-height:2;"><p align="center"><a href="https://nexplayersdk.com/nintendo-player-sdk/" target="_blank"><img  src="resources/ButtonRequestDemo.png" width="23%" height="10%" alt="Unity video player" align="right"></img></a>
+</br>
+
+
+<a align=right href="https://nexplayersdk.com/nintendo-player-sdk/" target="_blank"><img src="resources/Nintendo_Github.png" width="100%" height="100%" alt="NexPlayer Logo with Nintendo Switch Logo"></a>
   </p></h1>
   
   </br>
