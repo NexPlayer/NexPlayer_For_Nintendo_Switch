@@ -11,7 +11,7 @@
 
   Our Nintendo Switch video player opens the door for new use cases, such as live video content embedded within the game universe or OTT providers to offer their Live & VOD video services to Nintendo Switch users.
   
-  * **The only Video Player SDK for Nintendo Switch**
+  * **The only Video Streaming Player SDK for Nintendo Switch**
 
 
   This repository contains the feature list of our Nintendo Switch video streaming player with Unity. If you want to get a copy of our fully working demo, contact us at our [website](https://nexplayersdk.com/nintendo-player-sdk/).
