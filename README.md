@@ -23,7 +23,7 @@
   ## Use Case Examples
   
    <p align="center"><img src="resources/Switch.gif" width="80%" height="80%" alt="NexPlayer UI">
-  <p align="center"><b>NexPlayer powers Jeopardy!® Playshow on Nintendo Switch™. <a href="https://nexplayersdk.com/nexplayer-powers-jeopardy/">Ream more</a>
+  <p align="center"><b>NexPlayer powers Jeopardy!® Playshow on Nintendo Switch™. <a href="https://nexplayersdk.com/nexplayer-powers-jeopardy/">Read more</a>
   <p align="center"><img src="resources/nintendo UI.png" width="100%" height="100%" alt="NexPlayer UI">
   <p align="center"><b>Live & VOD video streaming inside Unity games for Nintendo Switch</b></p>
 
